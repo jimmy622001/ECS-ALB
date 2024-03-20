@@ -13,4 +13,4 @@ Steps to use:
   3. Run "terraform init", "terraform plan" and "terraform apply"
   4. To access the application, navigate to the Load Balancer in the
      AWS console and paste the dns name of the Load Balancer in a new tab. 
-Infracost added to calculate costs of Infrastructure
+
