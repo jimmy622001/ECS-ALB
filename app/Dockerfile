@@ -1,4 +1,4 @@
-FROM python:3.8-slim-buster
+FROM python:3.15-rc-slim-trixie
 
 COPY ./requirements.txt /app/requirements.txt
 
